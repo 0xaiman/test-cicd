@@ -26,5 +26,5 @@ jobs:
           path: '.'
 
       - name: Lancar ke GH pages
-        uses: actions/deploy-page@v4
+        uses: actions/deploy-pages@v4
           
